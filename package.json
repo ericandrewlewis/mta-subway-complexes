@@ -1,6 +1,6 @@
 {
-  "name": "mta-complexes",
-  "version": "1.0.0",
+  "name": "mta-subway-complexes",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {

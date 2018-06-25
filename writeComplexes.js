@@ -38,6 +38,7 @@ const buildJSON = () => {
       const id = complex['Complex ID'];
       const name = complex['Complex Name'];
       json[id] = {
+        id,
         name,
         daytimeRoutes: []
       };
@@ -50,6 +51,7 @@ const buildJSON = () => {
         complex = json[id];
       } else {
         complex = { 
+          id,
           name,
           daytimeRoutes: []
         };

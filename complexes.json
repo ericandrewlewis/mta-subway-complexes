@@ -1,5 +1,6 @@
 {
   "1": {
+    "id": "1",
     "name": "Astoria - Ditmars Blvd",
     "daytimeRoutes": [
       "N",
@@ -9,6 +10,7 @@
     "longitude": "-73.912034"
   },
   "2": {
+    "id": "2",
     "name": "Astoria Blvd",
     "daytimeRoutes": [
       "N",
@@ -18,6 +20,7 @@
     "longitude": "-73.917843"
   },
   "3": {
+    "id": "3",
     "name": "30 Av",
     "daytimeRoutes": [
       "N",
@@ -27,6 +30,7 @@
     "longitude": "-73.921479"
   },
   "4": {
+    "id": "4",
     "name": "Broadway",
     "daytimeRoutes": [
       "N",
@@ -36,6 +40,7 @@
     "longitude": "-73.925508"
   },
   "5": {
+    "id": "5",
     "name": "36 Av",
     "daytimeRoutes": [
       "N",
@@ -45,6 +50,7 @@
     "longitude": "-73.929575"
   },
   "6": {
+    "id": "6",
     "name": "39 Av",
     "daytimeRoutes": [
       "N",
@@ -54,6 +60,7 @@
     "longitude": "-73.932755"
   },
   "8": {
+    "id": "8",
     "name": "5 Av/59 St",
     "daytimeRoutes": [
       "N",
@@ -64,6 +71,7 @@
     "longitude": "-73.973347"
   },
   "9": {
+    "id": "9",
     "name": "57 St - 7 Av",
     "daytimeRoutes": [
       "N",
@@ -75,6 +83,7 @@
     "longitude": "-73.980658"
   },
   "10": {
+    "id": "10",
     "name": "49 St",
     "daytimeRoutes": [
       "N",
@@ -85,6 +94,7 @@
     "longitude": "-73.984139"
   },
   "13": {
+    "id": "13",
     "name": "28 St",
     "daytimeRoutes": [
       "R",
@@ -94,6 +104,7 @@
     "longitude": "-73.988691"
   },
   "14": {
+    "id": "14",
     "name": "23 St",
     "daytimeRoutes": [
       "R",
@@ -103,6 +114,7 @@
     "longitude": "-73.989344"
   },
   "16": {
+    "id": "16",
     "name": "8 St - NYU",
     "daytimeRoutes": [
       "R",
@@ -112,6 +124,7 @@
     "longitude": "-73.992629"
   },
   "17": {
+    "id": "17",
     "name": "Prince St",
     "daytimeRoutes": [
       "R",
@@ -121,6 +134,7 @@
     "longitude": "-73.997702"
   },
   "20": {
+    "id": "20",
     "name": "City Hall",
     "daytimeRoutes": [
       "R",
@@ -130,6 +144,7 @@
     "longitude": "-74.006978"
   },
   "21": {
+    "id": "21",
     "name": "Cortlandt St",
     "daytimeRoutes": [
       "R",
@@ -139,6 +154,7 @@
     "longitude": "-74.011029"
   },
   "22": {
+    "id": "22",
     "name": "Rector St",
     "daytimeRoutes": [
       "R",
@@ -148,6 +164,7 @@
     "longitude": "-74.013342"
   },
   "26": {
+    "id": "26",
     "name": "DeKalb Av",
     "daytimeRoutes": [
       "B",
@@ -158,6 +175,7 @@
     "longitude": "-73.981824"
   },
   "28": {
+    "id": "28",
     "name": "Union St",
     "daytimeRoutes": [
       "R"
@@ -166,6 +184,7 @@
     "longitude": "-73.98311"
   },
   "30": {
+    "id": "30",
     "name": "Prospect Av",
     "daytimeRoutes": [
       "R"
@@ -174,6 +193,7 @@
     "longitude": "-73.992872"
   },
   "31": {
+    "id": "31",
     "name": "25 St",
     "daytimeRoutes": [
       "R"
@@ -182,6 +202,7 @@
     "longitude": "-73.998091"
   },
   "32": {
+    "id": "32",
     "name": "36 St",
     "daytimeRoutes": [
       "D",
@@ -192,6 +213,7 @@
     "longitude": "-74.003549"
   },
   "33": {
+    "id": "33",
     "name": "45 St",
     "daytimeRoutes": [
       "R"
@@ -200,6 +222,7 @@
     "longitude": "-74.010006"
   },
   "34": {
+    "id": "34",
     "name": "53 St",
     "daytimeRoutes": [
       "R"
@@ -208,6 +231,7 @@
     "longitude": "-74.014034"
   },
   "35": {
+    "id": "35",
     "name": "59 St",
     "daytimeRoutes": [
       "N",
@@ -217,6 +241,7 @@
     "longitude": "-74.017881"
   },
   "36": {
+    "id": "36",
     "name": "Bay Ridge Av",
     "daytimeRoutes": [
       "R"
@@ -225,6 +250,7 @@
     "longitude": "-74.023377"
   },
   "37": {
+    "id": "37",
     "name": "77 St",
     "daytimeRoutes": [
       "R"
@@ -233,6 +259,7 @@
     "longitude": "-74.02551"
   },
   "38": {
+    "id": "38",
     "name": "86 St",
     "daytimeRoutes": [
       "R"
@@ -241,6 +268,7 @@
     "longitude": "-74.028398"
   },
   "39": {
+    "id": "39",
     "name": "Bay Ridge - 95 St",
     "daytimeRoutes": [
       "R"
@@ -249,6 +277,7 @@
     "longitude": "-74.030876"
   },
   "41": {
+    "id": "41",
     "name": "7 Av",
     "daytimeRoutes": [
       "B",
@@ -258,6 +287,7 @@
     "longitude": "-73.972367"
   },
   "42": {
+    "id": "42",
     "name": "Prospect Park",
     "daytimeRoutes": [
       "B",
@@ -267,6 +297,7 @@
     "longitude": "-73.962246"
   },
   "43": {
+    "id": "43",
     "name": "Parkside Av",
     "daytimeRoutes": [
       "B",
@@ -276,6 +307,7 @@
     "longitude": "-73.961495"
   },
   "44": {
+    "id": "44",
     "name": "Church Av",
     "daytimeRoutes": [
       "B",
@@ -285,6 +317,7 @@
     "longitude": "-73.962982"
   },
   "45": {
+    "id": "45",
     "name": "Beverley Rd",
     "daytimeRoutes": [
       "B",
@@ -294,6 +327,7 @@
     "longitude": "-73.964492"
   },
   "46": {
+    "id": "46",
     "name": "Cortelyou Rd",
     "daytimeRoutes": [
       "B",
@@ -303,6 +337,7 @@
     "longitude": "-73.963891"
   },
   "47": {
+    "id": "47",
     "name": "Newkirk Plaza",
     "daytimeRoutes": [
       "B",
@@ -312,6 +347,7 @@
     "longitude": "-73.962793"
   },
   "48": {
+    "id": "48",
     "name": "Avenue H",
     "daytimeRoutes": [
       "B",
@@ -321,6 +357,7 @@
     "longitude": "-73.961639"
   },
   "49": {
+    "id": "49",
     "name": "Avenue J",
     "daytimeRoutes": [
       "B",
@@ -330,6 +367,7 @@
     "longitude": "-73.960803"
   },
   "50": {
+    "id": "50",
     "name": "Avenue M",
     "daytimeRoutes": [
       "B",
@@ -339,6 +377,7 @@
     "longitude": "-73.959399"
   },
   "51": {
+    "id": "51",
     "name": "Kings Hwy",
     "daytimeRoutes": [
       "B",
@@ -348,6 +387,7 @@
     "longitude": "-73.957734"
   },
   "52": {
+    "id": "52",
     "name": "Avenue U",
     "daytimeRoutes": [
       "B",
@@ -357,6 +397,7 @@
     "longitude": "-73.955929"
   },
   "53": {
+    "id": "53",
     "name": "Neck Rd",
     "daytimeRoutes": [
       "B",
@@ -366,6 +407,7 @@
     "longitude": "-73.955161"
   },
   "54": {
+    "id": "54",
     "name": "Sheepshead Bay",
     "daytimeRoutes": [
       "B",
@@ -375,6 +417,7 @@
     "longitude": "-73.954155"
   },
   "55": {
+    "id": "55",
     "name": "Brighton Beach",
     "daytimeRoutes": [
       "B",
@@ -384,6 +427,7 @@
     "longitude": "-73.961376"
   },
   "56": {
+    "id": "56",
     "name": "Ocean Pkwy",
     "daytimeRoutes": [
       "Q"
@@ -392,6 +436,7 @@
     "longitude": "-73.968501"
   },
   "57": {
+    "id": "57",
     "name": "W 8 St - NY Aquarium",
     "daytimeRoutes": [
       "F",
@@ -401,6 +446,7 @@
     "longitude": "-73.975939"
   },
   "58": {
+    "id": "58",
     "name": "Coney Island - Stillwell Av",
     "daytimeRoutes": [
       "D",
@@ -412,6 +458,7 @@
     "longitude": "-73.981233"
   },
   "59": {
+    "id": "59",
     "name": "9 Av",
     "daytimeRoutes": [
       "D"
@@ -420,6 +467,7 @@
     "longitude": "-73.994324"
   },
   "60": {
+    "id": "60",
     "name": "Fort Hamilton Pkwy",
     "daytimeRoutes": [
       "D"
@@ -428,6 +476,7 @@
     "longitude": "-73.994304"
   },
   "61": {
+    "id": "61",
     "name": "50 St",
     "daytimeRoutes": [
       "D"
@@ -436,6 +485,7 @@
     "longitude": "-73.994791"
   },
   "62": {
+    "id": "62",
     "name": "55 St",
     "daytimeRoutes": [
       "D"
@@ -444,6 +494,7 @@
     "longitude": "-73.995476"
   },
   "64": {
+    "id": "64",
     "name": "71 St",
     "daytimeRoutes": [
       "D"
@@ -452,6 +503,7 @@
     "longitude": "-73.998864"
   },
   "65": {
+    "id": "65",
     "name": "79 St",
     "daytimeRoutes": [
       "D"
@@ -460,6 +512,7 @@
     "longitude": "-74.00061"
   },
   "66": {
+    "id": "66",
     "name": "18 Av",
     "daytimeRoutes": [
       "D"
@@ -468,6 +521,7 @@
     "longitude": "-74.001736"
   },
   "67": {
+    "id": "67",
     "name": "20 Av",
     "daytimeRoutes": [
       "D"
@@ -476,6 +530,7 @@
     "longitude": "-73.998168"
   },
   "68": {
+    "id": "68",
     "name": "Bay Pkwy",
     "daytimeRoutes": [
       "D"
@@ -484,6 +539,7 @@
     "longitude": "-73.993728"
   },
   "69": {
+    "id": "69",
     "name": "25 Av",
     "daytimeRoutes": [
       "D"
@@ -492,6 +548,7 @@
     "longitude": "-73.986829"
   },
   "70": {
+    "id": "70",
     "name": "Bay 50 St",
     "daytimeRoutes": [
       "D"
@@ -500,6 +557,7 @@
     "longitude": "-73.983765"
   },
   "71": {
+    "id": "71",
     "name": "8 Av",
     "daytimeRoutes": [
       "N"
@@ -508,6 +566,7 @@
     "longitude": "-74.011719"
   },
   "72": {
+    "id": "72",
     "name": "Fort Hamilton Pkwy",
     "daytimeRoutes": [
       "N"
@@ -516,6 +575,7 @@
     "longitude": "-74.005351"
   },
   "74": {
+    "id": "74",
     "name": "18 Av",
     "daytimeRoutes": [
       "N"
@@ -524,6 +584,7 @@
     "longitude": "-73.990414"
   },
   "75": {
+    "id": "75",
     "name": "20 Av",
     "daytimeRoutes": [
       "N"
@@ -532,6 +593,7 @@
     "longitude": "-73.985026"
   },
   "76": {
+    "id": "76",
     "name": "Bay Pkwy",
     "daytimeRoutes": [
       "N"
@@ -540,6 +602,7 @@
     "longitude": "-73.981848"
   },
   "77": {
+    "id": "77",
     "name": "Kings Hwy",
     "daytimeRoutes": [
       "N"
@@ -548,6 +611,7 @@
     "longitude": "-73.980353"
   },
   "78": {
+    "id": "78",
     "name": "Avenue U",
     "daytimeRoutes": [
       "N"
@@ -556,6 +620,7 @@
     "longitude": "-73.979137"
   },
   "79": {
+    "id": "79",
     "name": "86 St",
     "daytimeRoutes": [
       "N"
@@ -564,6 +629,7 @@
     "longitude": "-73.97823"
   },
   "80": {
+    "id": "80",
     "name": "121 St",
     "daytimeRoutes": [
       "J",
@@ -573,6 +639,7 @@
     "longitude": "-73.828294"
   },
   "81": {
+    "id": "81",
     "name": "111 St",
     "daytimeRoutes": [
       "J"
@@ -581,6 +648,7 @@
     "longitude": "-73.836345"
   },
   "82": {
+    "id": "82",
     "name": "104 St",
     "daytimeRoutes": [
       "J",
@@ -590,6 +658,7 @@
     "longitude": "-73.84433"
   },
   "83": {
+    "id": "83",
     "name": "Woodhaven Blvd",
     "daytimeRoutes": [
       "J",
@@ -599,6 +668,7 @@
     "longitude": "-73.851576"
   },
   "84": {
+    "id": "84",
     "name": "85 St - Forest Pkwy",
     "daytimeRoutes": [
       "J"
@@ -607,6 +677,7 @@
     "longitude": "-73.86001"
   },
   "85": {
+    "id": "85",
     "name": "75 St",
     "daytimeRoutes": [
       "J",
@@ -616,6 +687,7 @@
     "longitude": "-73.867139"
   },
   "86": {
+    "id": "86",
     "name": "Cypress Hills",
     "daytimeRoutes": [
       "J"
@@ -624,6 +696,7 @@
     "longitude": "-73.87255"
   },
   "87": {
+    "id": "87",
     "name": "Crescent St",
     "daytimeRoutes": [
       "J",
@@ -633,6 +706,7 @@
     "longitude": "-73.873785"
   },
   "88": {
+    "id": "88",
     "name": "Norwood Av",
     "daytimeRoutes": [
       "J",
@@ -642,6 +716,7 @@
     "longitude": "-73.880039"
   },
   "89": {
+    "id": "89",
     "name": "Cleveland St",
     "daytimeRoutes": [
       "J"
@@ -650,6 +725,7 @@
     "longitude": "-73.884639"
   },
   "90": {
+    "id": "90",
     "name": "Van Siclen Av",
     "daytimeRoutes": [
       "J",
@@ -659,6 +735,7 @@
     "longitude": "-73.891688"
   },
   "91": {
+    "id": "91",
     "name": "Alabama Av",
     "daytimeRoutes": [
       "J"
@@ -667,6 +744,7 @@
     "longitude": "-73.898654"
   },
   "93": {
+    "id": "93",
     "name": "Chauncey St",
     "daytimeRoutes": [
       "J",
@@ -676,6 +754,7 @@
     "longitude": "-73.910456"
   },
   "94": {
+    "id": "94",
     "name": "Halsey St",
     "daytimeRoutes": [
       "J"
@@ -684,6 +763,7 @@
     "longitude": "-73.916559"
   },
   "95": {
+    "id": "95",
     "name": "Gates Av",
     "daytimeRoutes": [
       "J",
@@ -693,6 +773,7 @@
     "longitude": "-73.92227"
   },
   "96": {
+    "id": "96",
     "name": "Kosciuszko St",
     "daytimeRoutes": [
       "J"
@@ -701,6 +782,7 @@
     "longitude": "-73.928814"
   },
   "97": {
+    "id": "97",
     "name": "Myrtle Av",
     "daytimeRoutes": [
       "J",
@@ -711,6 +793,7 @@
     "longitude": "-73.935657"
   },
   "98": {
+    "id": "98",
     "name": "Flushing Av",
     "daytimeRoutes": [
       "J",
@@ -720,6 +803,7 @@
     "longitude": "-73.941126"
   },
   "99": {
+    "id": "99",
     "name": "Lorimer St",
     "daytimeRoutes": [
       "J",
@@ -729,6 +813,7 @@
     "longitude": "-73.947408"
   },
   "100": {
+    "id": "100",
     "name": "Hewes St",
     "daytimeRoutes": [
       "J",
@@ -738,6 +823,7 @@
     "longitude": "-73.953431"
   },
   "101": {
+    "id": "101",
     "name": "Marcy Av",
     "daytimeRoutes": [
       "J",
@@ -748,6 +834,7 @@
     "longitude": "-73.957757"
   },
   "103": {
+    "id": "103",
     "name": "Bowery",
     "daytimeRoutes": [
       "J",
@@ -757,6 +844,7 @@
     "longitude": "-73.993915"
   },
   "107": {
+    "id": "107",
     "name": "Broad St",
     "daytimeRoutes": [
       "J",
@@ -766,6 +854,7 @@
     "longitude": "-74.011056"
   },
   "108": {
+    "id": "108",
     "name": "Middle Village - Metropolitan Av",
     "daytimeRoutes": [
       "M"
@@ -774,6 +863,7 @@
     "longitude": "-73.889601"
   },
   "109": {
+    "id": "109",
     "name": "Fresh Pond Rd",
     "daytimeRoutes": [
       "M"
@@ -782,6 +872,7 @@
     "longitude": "-73.895877"
   },
   "110": {
+    "id": "110",
     "name": "Forest Av",
     "daytimeRoutes": [
       "M"
@@ -790,6 +881,7 @@
     "longitude": "-73.903077"
   },
   "111": {
+    "id": "111",
     "name": "Seneca Av",
     "daytimeRoutes": [
       "M"
@@ -798,6 +890,7 @@
     "longitude": "-73.90774"
   },
   "113": {
+    "id": "113",
     "name": "Knickerbocker Av",
     "daytimeRoutes": [
       "M"
@@ -806,6 +899,7 @@
     "longitude": "-73.919711"
   },
   "114": {
+    "id": "114",
     "name": "Central Av",
     "daytimeRoutes": [
       "M"
@@ -814,6 +908,7 @@
     "longitude": "-73.927397"
   },
   "118": {
+    "id": "118",
     "name": "3 Av",
     "daytimeRoutes": [
       "L"
@@ -822,6 +917,7 @@
     "longitude": "-73.986122"
   },
   "119": {
+    "id": "119",
     "name": "1 Av",
     "daytimeRoutes": [
       "L"
@@ -830,6 +926,7 @@
     "longitude": "-73.981628"
   },
   "120": {
+    "id": "120",
     "name": "Bedford Av",
     "daytimeRoutes": [
       "L"
@@ -838,6 +935,7 @@
     "longitude": "-73.956872"
   },
   "122": {
+    "id": "122",
     "name": "Graham Av",
     "daytimeRoutes": [
       "L"
@@ -846,6 +944,7 @@
     "longitude": "-73.944053"
   },
   "123": {
+    "id": "123",
     "name": "Grand St",
     "daytimeRoutes": [
       "L"
@@ -854,6 +953,7 @@
     "longitude": "-73.94067"
   },
   "124": {
+    "id": "124",
     "name": "Montrose Av",
     "daytimeRoutes": [
       "L"
@@ -862,6 +962,7 @@
     "longitude": "-73.93985"
   },
   "125": {
+    "id": "125",
     "name": "Morgan Av",
     "daytimeRoutes": [
       "L"
@@ -870,6 +971,7 @@
     "longitude": "-73.933147"
   },
   "126": {
+    "id": "126",
     "name": "Jefferson St",
     "daytimeRoutes": [
       "L"
@@ -878,6 +980,7 @@
     "longitude": "-73.922913"
   },
   "127": {
+    "id": "127",
     "name": "DeKalb Av",
     "daytimeRoutes": [
       "L"
@@ -886,6 +989,7 @@
     "longitude": "-73.918425"
   },
   "129": {
+    "id": "129",
     "name": "Halsey St",
     "daytimeRoutes": [
       "L"
@@ -894,6 +998,7 @@
     "longitude": "-73.904084"
   },
   "130": {
+    "id": "130",
     "name": "Wilson Av",
     "daytimeRoutes": [
       "L"
@@ -902,6 +1007,7 @@
     "longitude": "-73.904046"
   },
   "131": {
+    "id": "131",
     "name": "Bushwick Av - Aberdeen St",
     "daytimeRoutes": [
       "L"
@@ -910,6 +1016,7 @@
     "longitude": "-73.905249"
   },
   "133": {
+    "id": "133",
     "name": "Atlantic Av",
     "daytimeRoutes": [
       "L"
@@ -918,6 +1025,7 @@
     "longitude": "-73.903097"
   },
   "134": {
+    "id": "134",
     "name": "Sutter Av",
     "daytimeRoutes": [
       "L"
@@ -926,6 +1034,7 @@
     "longitude": "-73.901975"
   },
   "135": {
+    "id": "135",
     "name": "Livonia Av",
     "daytimeRoutes": [
       "L"
@@ -934,6 +1043,7 @@
     "longitude": "-73.900571"
   },
   "136": {
+    "id": "136",
     "name": "New Lots Av",
     "daytimeRoutes": [
       "L"
@@ -942,6 +1052,7 @@
     "longitude": "-73.899232"
   },
   "137": {
+    "id": "137",
     "name": "E 105 St",
     "daytimeRoutes": [
       "L"
@@ -950,6 +1061,7 @@
     "longitude": "-73.899485"
   },
   "138": {
+    "id": "138",
     "name": "Canarsie - Rockaway Pkwy",
     "daytimeRoutes": [
       "L"
@@ -958,6 +1070,7 @@
     "longitude": "-73.90185"
   },
   "141": {
+    "id": "141",
     "name": "Park Pl",
     "daytimeRoutes": [
       "S"
@@ -966,6 +1079,7 @@
     "longitude": "-73.957624"
   },
   "143": {
+    "id": "143",
     "name": "Inwood - 207 St",
     "daytimeRoutes": [
       "A"
@@ -974,6 +1088,7 @@
     "longitude": "-73.919899"
   },
   "144": {
+    "id": "144",
     "name": "Dyckman St",
     "daytimeRoutes": [
       "A"
@@ -982,6 +1097,7 @@
     "longitude": "-73.927271"
   },
   "145": {
+    "id": "145",
     "name": "190 St",
     "daytimeRoutes": [
       "A"
@@ -990,6 +1106,7 @@
     "longitude": "-73.93418"
   },
   "146": {
+    "id": "146",
     "name": "181 St",
     "daytimeRoutes": [
       "A"
@@ -998,6 +1115,7 @@
     "longitude": "-73.937969"
   },
   "147": {
+    "id": "147",
     "name": "175 St",
     "daytimeRoutes": [
       "A"
@@ -1006,6 +1124,7 @@
     "longitude": "-73.939704"
   },
   "149": {
+    "id": "149",
     "name": "163 St - Amsterdam Av",
     "daytimeRoutes": [
       "C"
@@ -1014,6 +1133,7 @@
     "longitude": "-73.939892"
   },
   "150": {
+    "id": "150",
     "name": "155 St",
     "daytimeRoutes": [
       "C"
@@ -1022,6 +1142,7 @@
     "longitude": "-73.941514"
   },
   "151": {
+    "id": "151",
     "name": "145 St",
     "daytimeRoutes": [
       "A",
@@ -1033,6 +1154,7 @@
     "longitude": "-73.944216"
   },
   "152": {
+    "id": "152",
     "name": "135 St",
     "daytimeRoutes": [
       "B",
@@ -1042,6 +1164,7 @@
     "longitude": "-73.947649"
   },
   "153": {
+    "id": "153",
     "name": "125 St",
     "daytimeRoutes": [
       "A",
@@ -1053,6 +1176,7 @@
     "longitude": "-73.952343"
   },
   "154": {
+    "id": "154",
     "name": "116 St",
     "daytimeRoutes": [
       "B",
@@ -1062,6 +1186,7 @@
     "longitude": "-73.954882"
   },
   "155": {
+    "id": "155",
     "name": "Cathedral Pkwy (110 St)",
     "daytimeRoutes": [
       "B",
@@ -1071,6 +1196,7 @@
     "longitude": "-73.958161"
   },
   "156": {
+    "id": "156",
     "name": "103 St",
     "daytimeRoutes": [
       "B",
@@ -1080,6 +1206,7 @@
     "longitude": "-73.961454"
   },
   "157": {
+    "id": "157",
     "name": "96 St",
     "daytimeRoutes": [
       "B",
@@ -1089,6 +1216,7 @@
     "longitude": "-73.964696"
   },
   "158": {
+    "id": "158",
     "name": "86 St",
     "daytimeRoutes": [
       "B",
@@ -1098,6 +1226,7 @@
     "longitude": "-73.968916"
   },
   "159": {
+    "id": "159",
     "name": "81 St - Museum of Natural History",
     "daytimeRoutes": [
       "B",
@@ -1107,6 +1236,7 @@
     "longitude": "-73.972143"
   },
   "160": {
+    "id": "160",
     "name": "72 St",
     "daytimeRoutes": [
       "B",
@@ -1116,6 +1246,7 @@
     "longitude": "-73.97641"
   },
   "162": {
+    "id": "162",
     "name": "50 St",
     "daytimeRoutes": [
       "C",
@@ -1125,6 +1256,7 @@
     "longitude": "-73.985984"
   },
   "164": {
+    "id": "164",
     "name": "34 St - Penn Station",
     "daytimeRoutes": [
       "A",
@@ -1135,6 +1267,7 @@
     "longitude": "-73.993391"
   },
   "165": {
+    "id": "165",
     "name": "23 St",
     "daytimeRoutes": [
       "C",
@@ -1144,6 +1277,7 @@
     "longitude": "-73.998041"
   },
   "167": {
+    "id": "167",
     "name": "W 4 St",
     "daytimeRoutes": [
       "A",
@@ -1158,6 +1292,7 @@
     "longitude": "-74.000495"
   },
   "168": {
+    "id": "168",
     "name": "Spring St",
     "daytimeRoutes": [
       "C",
@@ -1167,6 +1302,7 @@
     "longitude": "-74.003739"
   },
   "169": {
+    "id": "169",
     "name": "Canal St",
     "daytimeRoutes": [
       "A",
@@ -1177,6 +1313,7 @@
     "longitude": "-74.005229"
   },
   "173": {
+    "id": "173",
     "name": "High St",
     "daytimeRoutes": [
       "A",
@@ -1186,6 +1323,7 @@
     "longitude": "-73.990531"
   },
   "175": {
+    "id": "175",
     "name": "Hoyt - Schermerhorn Sts",
     "daytimeRoutes": [
       "A",
@@ -1196,6 +1334,7 @@
     "longitude": "-73.985001"
   },
   "176": {
+    "id": "176",
     "name": "Lafayette Av",
     "daytimeRoutes": [
       "C"
@@ -1204,6 +1343,7 @@
     "longitude": "-73.973946"
   },
   "177": {
+    "id": "177",
     "name": "Clinton - Washington Avs",
     "daytimeRoutes": [
       "C"
@@ -1212,6 +1352,7 @@
     "longitude": "-73.965838"
   },
   "179": {
+    "id": "179",
     "name": "Nostrand Av",
     "daytimeRoutes": [
       "A",
@@ -1221,6 +1362,7 @@
     "longitude": "-73.950426"
   },
   "180": {
+    "id": "180",
     "name": "Kingston - Throop Avs",
     "daytimeRoutes": [
       "C"
@@ -1229,6 +1371,7 @@
     "longitude": "-73.940858"
   },
   "181": {
+    "id": "181",
     "name": "Utica Av",
     "daytimeRoutes": [
       "A",
@@ -1238,6 +1381,7 @@
     "longitude": "-73.930729"
   },
   "182": {
+    "id": "182",
     "name": "Ralph Av",
     "daytimeRoutes": [
       "C"
@@ -1246,6 +1390,7 @@
     "longitude": "-73.920786"
   },
   "183": {
+    "id": "183",
     "name": "Rockaway Av",
     "daytimeRoutes": [
       "C"
@@ -1254,6 +1399,7 @@
     "longitude": "-73.911946"
   },
   "185": {
+    "id": "185",
     "name": "Liberty Av",
     "daytimeRoutes": [
       "C"
@@ -1262,6 +1408,7 @@
     "longitude": "-73.896548"
   },
   "186": {
+    "id": "186",
     "name": "Van Siclen Av",
     "daytimeRoutes": [
       "C"
@@ -1270,6 +1417,7 @@
     "longitude": "-73.890358"
   },
   "187": {
+    "id": "187",
     "name": "Shepherd Av",
     "daytimeRoutes": [
       "C"
@@ -1278,6 +1426,7 @@
     "longitude": "-73.88075"
   },
   "188": {
+    "id": "188",
     "name": "Euclid Av",
     "daytimeRoutes": [
       "A",
@@ -1287,6 +1436,7 @@
     "longitude": "-73.872106"
   },
   "189": {
+    "id": "189",
     "name": "Grant Av",
     "daytimeRoutes": [
       "A"
@@ -1295,6 +1445,7 @@
     "longitude": "-73.86505"
   },
   "190": {
+    "id": "190",
     "name": "80 St",
     "daytimeRoutes": [
       "A"
@@ -1303,6 +1454,7 @@
     "longitude": "-73.858992"
   },
   "191": {
+    "id": "191",
     "name": "88 St",
     "daytimeRoutes": [
       "A"
@@ -1311,6 +1463,7 @@
     "longitude": "-73.85147"
   },
   "192": {
+    "id": "192",
     "name": "Rockaway Blvd",
     "daytimeRoutes": [
       "A"
@@ -1319,6 +1472,7 @@
     "longitude": "-73.843853"
   },
   "193": {
+    "id": "193",
     "name": "104 St",
     "daytimeRoutes": [
       "A"
@@ -1327,6 +1481,7 @@
     "longitude": "-73.837683"
   },
   "194": {
+    "id": "194",
     "name": "111 St",
     "daytimeRoutes": [
       "A"
@@ -1335,6 +1490,7 @@
     "longitude": "-73.832163"
   },
   "195": {
+    "id": "195",
     "name": "Ozone Park - Lefferts Blvd",
     "daytimeRoutes": [
       "A"
@@ -1343,6 +1499,7 @@
     "longitude": "-73.825798"
   },
   "196": {
+    "id": "196",
     "name": "Aqueduct Racetrack",
     "daytimeRoutes": [
       "A"
@@ -1351,6 +1508,7 @@
     "longitude": "-73.835919"
   },
   "197": {
+    "id": "197",
     "name": "Aqueduct - N Conduit Av",
     "daytimeRoutes": [
       "A"
@@ -1359,6 +1517,7 @@
     "longitude": "-73.834058"
   },
   "198": {
+    "id": "198",
     "name": "Howard Beach - JFK Airport",
     "daytimeRoutes": [
       "A"
@@ -1367,6 +1526,7 @@
     "longitude": "-73.830301"
   },
   "199": {
+    "id": "199",
     "name": "Broad Channel",
     "daytimeRoutes": [
       "A",
@@ -1378,6 +1538,7 @@
     "longitude": "-73.815925"
   },
   "200": {
+    "id": "200",
     "name": "Beach 90 St",
     "daytimeRoutes": [
       "A",
@@ -1387,6 +1548,7 @@
     "longitude": "-73.813641"
   },
   "201": {
+    "id": "201",
     "name": "Beach 98 St",
     "daytimeRoutes": [
       "A",
@@ -1396,6 +1558,7 @@
     "longitude": "-73.820558"
   },
   "202": {
+    "id": "202",
     "name": "Beach 105 St",
     "daytimeRoutes": [
       "A",
@@ -1405,6 +1568,7 @@
     "longitude": "-73.827559"
   },
   "203": {
+    "id": "203",
     "name": "Rockaway Park - Beach 116 St",
     "daytimeRoutes": [
       "A",
@@ -1414,6 +1578,7 @@
     "longitude": "-73.835592"
   },
   "204": {
+    "id": "204",
     "name": "Beach 67 St",
     "daytimeRoutes": [
       "A"
@@ -1422,6 +1587,7 @@
     "longitude": "-73.796924"
   },
   "205": {
+    "id": "205",
     "name": "Beach 60 St",
     "daytimeRoutes": [
       "A"
@@ -1430,6 +1596,7 @@
     "longitude": "-73.788522"
   },
   "206": {
+    "id": "206",
     "name": "Beach 44 St",
     "daytimeRoutes": [
       "A"
@@ -1438,6 +1605,7 @@
     "longitude": "-73.776013"
   },
   "207": {
+    "id": "207",
     "name": "Beach 36 St",
     "daytimeRoutes": [
       "A"
@@ -1446,6 +1614,7 @@
     "longitude": "-73.768175"
   },
   "208": {
+    "id": "208",
     "name": "Beach 25 St",
     "daytimeRoutes": [
       "A"
@@ -1454,6 +1623,7 @@
     "longitude": "-73.761353"
   },
   "209": {
+    "id": "209",
     "name": "Far Rockaway - Mott Av",
     "daytimeRoutes": [
       "A"
@@ -1462,6 +1632,7 @@
     "longitude": "-73.755405"
   },
   "210": {
+    "id": "210",
     "name": "Norwood - 205 St",
     "daytimeRoutes": [
       "D"
@@ -1470,6 +1641,7 @@
     "longitude": "-73.878855"
   },
   "211": {
+    "id": "211",
     "name": "Bedford Park Blvd",
     "daytimeRoutes": [
       "B",
@@ -1479,6 +1651,7 @@
     "longitude": "-73.887138"
   },
   "212": {
+    "id": "212",
     "name": "Kingsbridge Rd",
     "daytimeRoutes": [
       "B",
@@ -1488,6 +1661,7 @@
     "longitude": "-73.893509"
   },
   "213": {
+    "id": "213",
     "name": "Fordham Rd",
     "daytimeRoutes": [
       "B",
@@ -1497,6 +1671,7 @@
     "longitude": "-73.897749"
   },
   "214": {
+    "id": "214",
     "name": "182-183 Sts",
     "daytimeRoutes": [
       "B",
@@ -1506,6 +1681,7 @@
     "longitude": "-73.900741"
   },
   "215": {
+    "id": "215",
     "name": "Tremont Av",
     "daytimeRoutes": [
       "B",
@@ -1515,6 +1691,7 @@
     "longitude": "-73.905227"
   },
   "216": {
+    "id": "216",
     "name": "174-175 Sts",
     "daytimeRoutes": [
       "B",
@@ -1524,6 +1701,7 @@
     "longitude": "-73.910136"
   },
   "217": {
+    "id": "217",
     "name": "170 St",
     "daytimeRoutes": [
       "B",
@@ -1533,6 +1711,7 @@
     "longitude": "-73.9134"
   },
   "218": {
+    "id": "218",
     "name": "167 St",
     "daytimeRoutes": [
       "B",
@@ -1542,6 +1721,7 @@
     "longitude": "-73.91844"
   },
   "220": {
+    "id": "220",
     "name": "155 St",
     "daytimeRoutes": [
       "B",
@@ -1551,6 +1731,7 @@
     "longitude": "-73.938209"
   },
   "221": {
+    "id": "221",
     "name": "21 St - Queensbridge",
     "daytimeRoutes": [
       "F"
@@ -1559,6 +1740,7 @@
     "longitude": "-73.942836"
   },
   "222": {
+    "id": "222",
     "name": "Roosevelt Island",
     "daytimeRoutes": [
       "F"
@@ -1567,6 +1749,7 @@
     "longitude": "-73.95326"
   },
   "223": {
+    "id": "223",
     "name": "Lexington Av/63 St",
     "daytimeRoutes": [
       "F",
@@ -1576,6 +1759,7 @@
     "longitude": "-73.966113"
   },
   "224": {
+    "id": "224",
     "name": "57 St",
     "daytimeRoutes": [
       "F"
@@ -1584,6 +1768,7 @@
     "longitude": "-73.97745"
   },
   "225": {
+    "id": "225",
     "name": "47-50 Sts - Rockefeller Ctr",
     "daytimeRoutes": [
       "B",
@@ -1595,6 +1780,7 @@
     "longitude": "-73.981329"
   },
   "228": {
+    "id": "228",
     "name": "23 St",
     "daytimeRoutes": [
       "F",
@@ -1604,6 +1790,7 @@
     "longitude": "-73.992821"
   },
   "231": {
+    "id": "231",
     "name": "Grand St",
     "daytimeRoutes": [
       "B",
@@ -1613,6 +1800,7 @@
     "longitude": "-73.993753"
   },
   "232": {
+    "id": "232",
     "name": "2 Av",
     "daytimeRoutes": [
       "F"
@@ -1621,6 +1809,7 @@
     "longitude": "-73.989938"
   },
   "234": {
+    "id": "234",
     "name": "East Broadway",
     "daytimeRoutes": [
       "F"
@@ -1629,6 +1818,7 @@
     "longitude": "-73.990173"
   },
   "235": {
+    "id": "235",
     "name": "York St",
     "daytimeRoutes": [
       "F"
@@ -1637,6 +1827,7 @@
     "longitude": "-73.986751"
   },
   "236": {
+    "id": "236",
     "name": "Bergen St",
     "daytimeRoutes": [
       "F",
@@ -1646,6 +1837,7 @@
     "longitude": "-73.990862"
   },
   "237": {
+    "id": "237",
     "name": "Carroll St",
     "daytimeRoutes": [
       "F",
@@ -1655,6 +1847,7 @@
     "longitude": "-73.995048"
   },
   "238": {
+    "id": "238",
     "name": "Smith - 9 Sts",
     "daytimeRoutes": [
       "F",
@@ -1664,6 +1857,7 @@
     "longitude": "-73.995959"
   },
   "240": {
+    "id": "240",
     "name": "7 Av",
     "daytimeRoutes": [
       "F",
@@ -1673,6 +1867,7 @@
     "longitude": "-73.980305"
   },
   "241": {
+    "id": "241",
     "name": "15 St - Prospect Park",
     "daytimeRoutes": [
       "F",
@@ -1682,6 +1877,7 @@
     "longitude": "-73.979493"
   },
   "242": {
+    "id": "242",
     "name": "Fort Hamilton Pkwy",
     "daytimeRoutes": [
       "F",
@@ -1691,6 +1887,7 @@
     "longitude": "-73.975776"
   },
   "243": {
+    "id": "243",
     "name": "Church Av",
     "daytimeRoutes": [
       "F"
@@ -1699,6 +1896,7 @@
     "longitude": "-73.979678"
   },
   "244": {
+    "id": "244",
     "name": "Ditmas Av",
     "daytimeRoutes": [
       "F"
@@ -1707,6 +1905,7 @@
     "longitude": "-73.978172"
   },
   "245": {
+    "id": "245",
     "name": "18 Av",
     "daytimeRoutes": [
       "F"
@@ -1715,6 +1914,7 @@
     "longitude": "-73.976971"
   },
   "246": {
+    "id": "246",
     "name": "Avenue I",
     "daytimeRoutes": [
       "F"
@@ -1723,6 +1923,7 @@
     "longitude": "-73.976127"
   },
   "247": {
+    "id": "247",
     "name": "Bay Pkwy",
     "daytimeRoutes": [
       "F"
@@ -1731,6 +1932,7 @@
     "longitude": "-73.975264"
   },
   "248": {
+    "id": "248",
     "name": "Avenue N",
     "daytimeRoutes": [
       "F"
@@ -1739,6 +1941,7 @@
     "longitude": "-73.974197"
   },
   "249": {
+    "id": "249",
     "name": "Avenue P",
     "daytimeRoutes": [
       "F"
@@ -1747,6 +1950,7 @@
     "longitude": "-73.973022"
   },
   "250": {
+    "id": "250",
     "name": "Kings Hwy",
     "daytimeRoutes": [
       "F"
@@ -1755,6 +1959,7 @@
     "longitude": "-73.972361"
   },
   "251": {
+    "id": "251",
     "name": "Avenue U",
     "daytimeRoutes": [
       "F"
@@ -1763,6 +1968,7 @@
     "longitude": "-73.973357"
   },
   "252": {
+    "id": "252",
     "name": "Avenue X",
     "daytimeRoutes": [
       "F"
@@ -1771,6 +1977,7 @@
     "longitude": "-73.97425"
   },
   "253": {
+    "id": "253",
     "name": "Neptune Av",
     "daytimeRoutes": [
       "F"
@@ -1779,6 +1986,7 @@
     "longitude": "-73.974574"
   },
   "254": {
+    "id": "254",
     "name": "Jamaica - 179 St",
     "daytimeRoutes": [
       "F"
@@ -1787,6 +1995,7 @@
     "longitude": "-73.783817"
   },
   "255": {
+    "id": "255",
     "name": "169 St",
     "daytimeRoutes": [
       "F"
@@ -1795,6 +2004,7 @@
     "longitude": "-73.793604"
   },
   "256": {
+    "id": "256",
     "name": "Parsons Blvd",
     "daytimeRoutes": [
       "F"
@@ -1803,6 +2013,7 @@
     "longitude": "-73.803326"
   },
   "257": {
+    "id": "257",
     "name": "Sutphin Blvd",
     "daytimeRoutes": [
       "F"
@@ -1811,6 +2022,7 @@
     "longitude": "-73.810708"
   },
   "258": {
+    "id": "258",
     "name": "Briarwood - Van Wyck Blvd",
     "daytimeRoutes": [
       "E",
@@ -1820,6 +2032,7 @@
     "longitude": "-73.820574"
   },
   "259": {
+    "id": "259",
     "name": "Kew Gardens - Union Tpke",
     "daytimeRoutes": [
       "E",
@@ -1829,6 +2042,7 @@
     "longitude": "-73.831008"
   },
   "260": {
+    "id": "260",
     "name": "75 Av",
     "daytimeRoutes": [
       "E",
@@ -1838,6 +2052,7 @@
     "longitude": "-73.837324"
   },
   "261": {
+    "id": "261",
     "name": "Forest Hills - 71 Av",
     "daytimeRoutes": [
       "E",
@@ -1849,6 +2064,7 @@
     "longitude": "-73.844521"
   },
   "262": {
+    "id": "262",
     "name": "67 Av",
     "daytimeRoutes": [
       "M",
@@ -1858,6 +2074,7 @@
     "longitude": "-73.852719"
   },
   "263": {
+    "id": "263",
     "name": "63 Dr - Rego Park",
     "daytimeRoutes": [
       "M",
@@ -1867,6 +2084,7 @@
     "longitude": "-73.861604"
   },
   "264": {
+    "id": "264",
     "name": "Woodhaven Blvd",
     "daytimeRoutes": [
       "M",
@@ -1876,6 +2094,7 @@
     "longitude": "-73.869229"
   },
   "265": {
+    "id": "265",
     "name": "Grand Av - Newtown",
     "daytimeRoutes": [
       "M",
@@ -1885,6 +2104,7 @@
     "longitude": "-73.877223"
   },
   "266": {
+    "id": "266",
     "name": "Elmhurst Av",
     "daytimeRoutes": [
       "M",
@@ -1894,6 +2114,7 @@
     "longitude": "-73.882017"
   },
   "268": {
+    "id": "268",
     "name": "65 St",
     "daytimeRoutes": [
       "M",
@@ -1903,6 +2124,7 @@
     "longitude": "-73.898453"
   },
   "269": {
+    "id": "269",
     "name": "Northern Blvd",
     "daytimeRoutes": [
       "M",
@@ -1912,6 +2134,7 @@
     "longitude": "-73.906006"
   },
   "270": {
+    "id": "270",
     "name": "46 St",
     "daytimeRoutes": [
       "M",
@@ -1921,6 +2144,7 @@
     "longitude": "-73.913333"
   },
   "271": {
+    "id": "271",
     "name": "Steinway St",
     "daytimeRoutes": [
       "M",
@@ -1930,6 +2154,7 @@
     "longitude": "-73.92074"
   },
   "272": {
+    "id": "272",
     "name": "36 St",
     "daytimeRoutes": [
       "M",
@@ -1939,6 +2164,7 @@
     "longitude": "-73.928781"
   },
   "273": {
+    "id": "273",
     "name": "Queens Plaza",
     "daytimeRoutes": [
       "E",
@@ -1949,6 +2175,7 @@
     "longitude": "-73.937243"
   },
   "276": {
+    "id": "276",
     "name": "5 Av/53 St",
     "daytimeRoutes": [
       "E",
@@ -1958,6 +2185,7 @@
     "longitude": "-73.975224"
   },
   "277": {
+    "id": "277",
     "name": "7 Av",
     "daytimeRoutes": [
       "B",
@@ -1968,6 +2196,7 @@
     "longitude": "-73.981637"
   },
   "278": {
+    "id": "278",
     "name": "Jamaica Center - Parsons/Archer",
     "daytimeRoutes": [
       "E",
@@ -1978,6 +2207,7 @@
     "longitude": "-73.801109"
   },
   "279": {
+    "id": "279",
     "name": "Sutphin Blvd - Archer Av - JFK Airport",
     "daytimeRoutes": [
       "E",
@@ -1988,6 +2218,7 @@
     "longitude": "-73.807969"
   },
   "280": {
+    "id": "280",
     "name": "Jamaica - Van Wyck",
     "daytimeRoutes": [
       "E"
@@ -1996,6 +2227,7 @@
     "longitude": "-73.816859"
   },
   "282": {
+    "id": "282",
     "name": "21 St",
     "daytimeRoutes": [
       "G"
@@ -2004,6 +2236,7 @@
     "longitude": "-73.949724"
   },
   "283": {
+    "id": "283",
     "name": "Greenpoint Av",
     "daytimeRoutes": [
       "G"
@@ -2012,6 +2245,7 @@
     "longitude": "-73.954449"
   },
   "284": {
+    "id": "284",
     "name": "Nassau Av",
     "daytimeRoutes": [
       "G"
@@ -2020,6 +2254,7 @@
     "longitude": "-73.951277"
   },
   "286": {
+    "id": "286",
     "name": "Broadway",
     "daytimeRoutes": [
       "G"
@@ -2028,6 +2263,7 @@
     "longitude": "-73.950308"
   },
   "287": {
+    "id": "287",
     "name": "Flushing Av",
     "daytimeRoutes": [
       "G"
@@ -2036,6 +2272,7 @@
     "longitude": "-73.950234"
   },
   "288": {
+    "id": "288",
     "name": "Myrtle - Willoughby Avs",
     "daytimeRoutes": [
       "G"
@@ -2044,6 +2281,7 @@
     "longitude": "-73.949046"
   },
   "289": {
+    "id": "289",
     "name": "Bedford - Nostrand Avs",
     "daytimeRoutes": [
       "G"
@@ -2052,6 +2290,7 @@
     "longitude": "-73.953522"
   },
   "290": {
+    "id": "290",
     "name": "Classon Av",
     "daytimeRoutes": [
       "G"
@@ -2060,6 +2299,7 @@
     "longitude": "-73.96007"
   },
   "291": {
+    "id": "291",
     "name": "Clinton - Washington Avs",
     "daytimeRoutes": [
       "G"
@@ -2068,6 +2308,7 @@
     "longitude": "-73.966839"
   },
   "292": {
+    "id": "292",
     "name": "Fulton St",
     "daytimeRoutes": [
       "G"
@@ -2076,6 +2317,7 @@
     "longitude": "-73.975375"
   },
   "293": {
+    "id": "293",
     "name": "Van Cortlandt Park - 242 St",
     "daytimeRoutes": [
       "1"
@@ -2084,6 +2326,7 @@
     "longitude": "-73.898583"
   },
   "294": {
+    "id": "294",
     "name": "238 St",
     "daytimeRoutes": [
       "1"
@@ -2092,6 +2335,7 @@
     "longitude": "-73.90087"
   },
   "295": {
+    "id": "295",
     "name": "231 St",
     "daytimeRoutes": [
       "1"
@@ -2100,6 +2344,7 @@
     "longitude": "-73.904834"
   },
   "296": {
+    "id": "296",
     "name": "Marble Hill - 225 St",
     "daytimeRoutes": [
       "1"
@@ -2108,6 +2353,7 @@
     "longitude": "-73.909831"
   },
   "297": {
+    "id": "297",
     "name": "215 St",
     "daytimeRoutes": [
       "1"
@@ -2116,6 +2362,7 @@
     "longitude": "-73.915279"
   },
   "298": {
+    "id": "298",
     "name": "207 St",
     "daytimeRoutes": [
       "1"
@@ -2124,6 +2371,7 @@
     "longitude": "-73.918822"
   },
   "299": {
+    "id": "299",
     "name": "Dyckman St",
     "daytimeRoutes": [
       "1"
@@ -2132,6 +2380,7 @@
     "longitude": "-73.925536"
   },
   "300": {
+    "id": "300",
     "name": "191 St",
     "daytimeRoutes": [
       "1"
@@ -2140,6 +2389,7 @@
     "longitude": "-73.929412"
   },
   "301": {
+    "id": "301",
     "name": "181 St",
     "daytimeRoutes": [
       "1"
@@ -2148,6 +2398,7 @@
     "longitude": "-73.933596"
   },
   "303": {
+    "id": "303",
     "name": "157 St",
     "daytimeRoutes": [
       "1"
@@ -2156,6 +2407,7 @@
     "longitude": "-73.94489"
   },
   "304": {
+    "id": "304",
     "name": "145 St",
     "daytimeRoutes": [
       "1"
@@ -2164,6 +2416,7 @@
     "longitude": "-73.95036"
   },
   "305": {
+    "id": "305",
     "name": "137 St - City College",
     "daytimeRoutes": [
       "1"
@@ -2172,6 +2425,7 @@
     "longitude": "-73.953676"
   },
   "306": {
+    "id": "306",
     "name": "125 St",
     "daytimeRoutes": [
       "1"
@@ -2180,6 +2434,7 @@
     "longitude": "-73.958372"
   },
   "307": {
+    "id": "307",
     "name": "116 St - Columbia University",
     "daytimeRoutes": [
       "1"
@@ -2188,6 +2443,7 @@
     "longitude": "-73.96411"
   },
   "308": {
+    "id": "308",
     "name": "Cathedral Pkwy",
     "daytimeRoutes": [
       "1"
@@ -2196,6 +2452,7 @@
     "longitude": "-73.966847"
   },
   "309": {
+    "id": "309",
     "name": "103 St",
     "daytimeRoutes": [
       "1"
@@ -2204,6 +2461,7 @@
     "longitude": "-73.968379"
   },
   "310": {
+    "id": "310",
     "name": "96 St",
     "daytimeRoutes": [
       "1",
@@ -2214,6 +2472,7 @@
     "longitude": "-73.972323"
   },
   "311": {
+    "id": "311",
     "name": "86 St",
     "daytimeRoutes": [
       "1"
@@ -2222,6 +2481,7 @@
     "longitude": "-73.976218"
   },
   "312": {
+    "id": "312",
     "name": "79 St",
     "daytimeRoutes": [
       "1"
@@ -2230,6 +2490,7 @@
     "longitude": "-73.979917"
   },
   "313": {
+    "id": "313",
     "name": "72 St",
     "daytimeRoutes": [
       "1",
@@ -2240,6 +2501,7 @@
     "longitude": "-73.98197"
   },
   "314": {
+    "id": "314",
     "name": "66 St - Lincoln Center",
     "daytimeRoutes": [
       "1"
@@ -2248,6 +2510,7 @@
     "longitude": "-73.982209"
   },
   "316": {
+    "id": "316",
     "name": "50 St",
     "daytimeRoutes": [
       "1"
@@ -2256,6 +2519,7 @@
     "longitude": "-73.983849"
   },
   "318": {
+    "id": "318",
     "name": "34 St - Penn Station",
     "daytimeRoutes": [
       "1",
@@ -2266,6 +2530,7 @@
     "longitude": "-73.991057"
   },
   "319": {
+    "id": "319",
     "name": "28 St",
     "daytimeRoutes": [
       "1"
@@ -2274,6 +2539,7 @@
     "longitude": "-73.993365"
   },
   "320": {
+    "id": "320",
     "name": "23 St",
     "daytimeRoutes": [
       "1"
@@ -2282,6 +2548,7 @@
     "longitude": "-73.995657"
   },
   "321": {
+    "id": "321",
     "name": "18 St",
     "daytimeRoutes": [
       "1"
@@ -2290,6 +2557,7 @@
     "longitude": "-73.997871"
   },
   "323": {
+    "id": "323",
     "name": "Christopher St - Sheridan Sq",
     "daytimeRoutes": [
       "1"
@@ -2298,6 +2566,7 @@
     "longitude": "-74.002906"
   },
   "324": {
+    "id": "324",
     "name": "Houston St",
     "daytimeRoutes": [
       "1"
@@ -2306,6 +2575,7 @@
     "longitude": "-74.005367"
   },
   "325": {
+    "id": "325",
     "name": "Canal St",
     "daytimeRoutes": [
       "1"
@@ -2314,6 +2584,7 @@
     "longitude": "-74.006277"
   },
   "326": {
+    "id": "326",
     "name": "Franklin St",
     "daytimeRoutes": [
       "1"
@@ -2322,6 +2593,7 @@
     "longitude": "-74.006886"
   },
   "327": {
+    "id": "327",
     "name": "Chambers St",
     "daytimeRoutes": [
       "1",
@@ -2332,6 +2604,7 @@
     "longitude": "-74.009266"
   },
   "328": {
+    "id": "328",
     "name": "Cortlandt St",
     "daytimeRoutes": [
       "1"
@@ -2340,6 +2613,7 @@
     "longitude": "-74.012188"
   },
   "329": {
+    "id": "329",
     "name": "Rector St",
     "daytimeRoutes": [
       "1"
@@ -2348,6 +2622,7 @@
     "longitude": "-74.013783"
   },
   "333": {
+    "id": "333",
     "name": "Wall St",
     "daytimeRoutes": [
       "2",
@@ -2357,6 +2632,7 @@
     "longitude": "-74.0091"
   },
   "334": {
+    "id": "334",
     "name": "Clark St",
     "daytimeRoutes": [
       "2",
@@ -2366,6 +2642,7 @@
     "longitude": "-73.993086"
   },
   "336": {
+    "id": "336",
     "name": "Hoyt St",
     "daytimeRoutes": [
       "2",
@@ -2375,6 +2652,7 @@
     "longitude": "-73.985065"
   },
   "337": {
+    "id": "337",
     "name": "Nevins St",
     "daytimeRoutes": [
       "2",
@@ -2386,6 +2664,7 @@
     "longitude": "-73.980492"
   },
   "339": {
+    "id": "339",
     "name": "Bergen St",
     "daytimeRoutes": [
       "2",
@@ -2395,6 +2674,7 @@
     "longitude": "-73.975098"
   },
   "340": {
+    "id": "340",
     "name": "Grand Army Plaza",
     "daytimeRoutes": [
       "2",
@@ -2404,6 +2684,7 @@
     "longitude": "-73.971046"
   },
   "341": {
+    "id": "341",
     "name": "Eastern Pkwy - Brooklyn Museum",
     "daytimeRoutes": [
       "2",
@@ -2413,6 +2694,7 @@
     "longitude": "-73.964375"
   },
   "343": {
+    "id": "343",
     "name": "Nostrand Av",
     "daytimeRoutes": [
       "3"
@@ -2421,6 +2703,7 @@
     "longitude": "-73.950466"
   },
   "344": {
+    "id": "344",
     "name": "Kingston Av",
     "daytimeRoutes": [
       "3"
@@ -2429,6 +2712,7 @@
     "longitude": "-73.942161"
   },
   "345": {
+    "id": "345",
     "name": "Crown Hts - Utica Av",
     "daytimeRoutes": [
       "3",
@@ -2438,6 +2722,7 @@
     "longitude": "-73.932942"
   },
   "346": {
+    "id": "346",
     "name": "Sutter Av - Rutland Rd",
     "daytimeRoutes": [
       "3"
@@ -2446,6 +2731,7 @@
     "longitude": "-73.92261"
   },
   "347": {
+    "id": "347",
     "name": "Saratoga Av",
     "daytimeRoutes": [
       "3"
@@ -2454,6 +2740,7 @@
     "longitude": "-73.916327"
   },
   "348": {
+    "id": "348",
     "name": "Rockaway Av",
     "daytimeRoutes": [
       "3"
@@ -2462,6 +2749,7 @@
     "longitude": "-73.908946"
   },
   "349": {
+    "id": "349",
     "name": "Junius St",
     "daytimeRoutes": [
       "3"
@@ -2470,6 +2758,7 @@
     "longitude": "-73.902447"
   },
   "350": {
+    "id": "350",
     "name": "Pennsylvania Av",
     "daytimeRoutes": [
       "3"
@@ -2478,6 +2767,7 @@
     "longitude": "-73.894895"
   },
   "351": {
+    "id": "351",
     "name": "Van Siclen Av",
     "daytimeRoutes": [
       "3"
@@ -2486,6 +2776,7 @@
     "longitude": "-73.889395"
   },
   "352": {
+    "id": "352",
     "name": "New Lots Av",
     "daytimeRoutes": [
       "3"
@@ -2494,6 +2785,7 @@
     "longitude": "-73.884079"
   },
   "353": {
+    "id": "353",
     "name": "President St",
     "daytimeRoutes": [
       "2",
@@ -2503,6 +2795,7 @@
     "longitude": "-73.950683"
   },
   "354": {
+    "id": "354",
     "name": "Sterling St",
     "daytimeRoutes": [
       "2",
@@ -2512,6 +2805,7 @@
     "longitude": "-73.95085"
   },
   "355": {
+    "id": "355",
     "name": "Winthrop St",
     "daytimeRoutes": [
       "2",
@@ -2521,6 +2815,7 @@
     "longitude": "-73.9502"
   },
   "356": {
+    "id": "356",
     "name": "Church Av",
     "daytimeRoutes": [
       "2",
@@ -2530,6 +2825,7 @@
     "longitude": "-73.949575"
   },
   "357": {
+    "id": "357",
     "name": "Beverly Rd",
     "daytimeRoutes": [
       "2",
@@ -2539,6 +2835,7 @@
     "longitude": "-73.948959"
   },
   "358": {
+    "id": "358",
     "name": "Newkirk Av",
     "daytimeRoutes": [
       "2",
@@ -2548,6 +2845,7 @@
     "longitude": "-73.948411"
   },
   "359": {
+    "id": "359",
     "name": "Flatbush Av - Brooklyn College",
     "daytimeRoutes": [
       "2",
@@ -2557,6 +2855,7 @@
     "longitude": "-73.947642"
   },
   "360": {
+    "id": "360",
     "name": "Pelham Bay Park",
     "daytimeRoutes": [
       "6"
@@ -2565,6 +2864,7 @@
     "longitude": "-73.828121"
   },
   "361": {
+    "id": "361",
     "name": "Buhre Av",
     "daytimeRoutes": [
       "6"
@@ -2573,6 +2873,7 @@
     "longitude": "-73.832569"
   },
   "362": {
+    "id": "362",
     "name": "Middletown Rd",
     "daytimeRoutes": [
       "6"
@@ -2581,6 +2882,7 @@
     "longitude": "-73.836322"
   },
   "363": {
+    "id": "363",
     "name": "Westchester Sq - E Tremont Av",
     "daytimeRoutes": [
       "6"
@@ -2589,6 +2891,7 @@
     "longitude": "-73.842952"
   },
   "364": {
+    "id": "364",
     "name": "Zerega Av",
     "daytimeRoutes": [
       "6"
@@ -2597,6 +2900,7 @@
     "longitude": "-73.847036"
   },
   "365": {
+    "id": "365",
     "name": "Castle Hill Av",
     "daytimeRoutes": [
       "6"
@@ -2605,6 +2909,7 @@
     "longitude": "-73.851222"
   },
   "366": {
+    "id": "366",
     "name": "Parkchester",
     "daytimeRoutes": [
       "6"
@@ -2613,6 +2918,7 @@
     "longitude": "-73.860816"
   },
   "367": {
+    "id": "367",
     "name": "St Lawrence Av",
     "daytimeRoutes": [
       "6"
@@ -2621,6 +2927,7 @@
     "longitude": "-73.867618"
   },
   "368": {
+    "id": "368",
     "name": "Morrison Av- Sound View",
     "daytimeRoutes": [
       "6"
@@ -2629,6 +2936,7 @@
     "longitude": "-73.874516"
   },
   "369": {
+    "id": "369",
     "name": "Elder Av",
     "daytimeRoutes": [
       "6"
@@ -2637,6 +2945,7 @@
     "longitude": "-73.879159"
   },
   "370": {
+    "id": "370",
     "name": "Whitlock Av",
     "daytimeRoutes": [
       "6"
@@ -2645,6 +2954,7 @@
     "longitude": "-73.886283"
   },
   "371": {
+    "id": "371",
     "name": "Hunts Point Av",
     "daytimeRoutes": [
       "6"
@@ -2653,6 +2963,7 @@
     "longitude": "-73.890549"
   },
   "372": {
+    "id": "372",
     "name": "Longwood Av",
     "daytimeRoutes": [
       "6"
@@ -2661,6 +2972,7 @@
     "longitude": "-73.896435"
   },
   "373": {
+    "id": "373",
     "name": "E 149 St",
     "daytimeRoutes": [
       "6"
@@ -2669,6 +2981,7 @@
     "longitude": "-73.904098"
   },
   "374": {
+    "id": "374",
     "name": "E 143 St - St Mary's St",
     "daytimeRoutes": [
       "6"
@@ -2677,6 +2990,7 @@
     "longitude": "-73.907657"
   },
   "375": {
+    "id": "375",
     "name": "Cypress Av",
     "daytimeRoutes": [
       "6"
@@ -2685,6 +2999,7 @@
     "longitude": "-73.914042"
   },
   "376": {
+    "id": "376",
     "name": "Brook Av",
     "daytimeRoutes": [
       "6"
@@ -2693,6 +3008,7 @@
     "longitude": "-73.91924"
   },
   "377": {
+    "id": "377",
     "name": "3 Av - 138 St",
     "daytimeRoutes": [
       "6"
@@ -2701,6 +3017,7 @@
     "longitude": "-73.926138"
   },
   "378": {
+    "id": "378",
     "name": "Woodlawn",
     "daytimeRoutes": [
       "4"
@@ -2709,6 +3026,7 @@
     "longitude": "-73.878751"
   },
   "379": {
+    "id": "379",
     "name": "Mosholu Pkwy",
     "daytimeRoutes": [
       "4"
@@ -2717,6 +3035,7 @@
     "longitude": "-73.884655"
   },
   "380": {
+    "id": "380",
     "name": "Bedford Park Blvd - Lehman College",
     "daytimeRoutes": [
       "4"
@@ -2725,6 +3044,7 @@
     "longitude": "-73.890064"
   },
   "381": {
+    "id": "381",
     "name": "Kingsbridge Rd",
     "daytimeRoutes": [
       "4"
@@ -2733,6 +3053,7 @@
     "longitude": "-73.897174"
   },
   "382": {
+    "id": "382",
     "name": "Fordham Rd",
     "daytimeRoutes": [
       "4"
@@ -2741,6 +3062,7 @@
     "longitude": "-73.901034"
   },
   "383": {
+    "id": "383",
     "name": "183 St",
     "daytimeRoutes": [
       "4"
@@ -2749,6 +3071,7 @@
     "longitude": "-73.903879"
   },
   "384": {
+    "id": "384",
     "name": "Burnside Av",
     "daytimeRoutes": [
       "4"
@@ -2757,6 +3080,7 @@
     "longitude": "-73.907684"
   },
   "385": {
+    "id": "385",
     "name": "176 St",
     "daytimeRoutes": [
       "4"
@@ -2765,6 +3089,7 @@
     "longitude": "-73.911794"
   },
   "386": {
+    "id": "386",
     "name": "Mt Eden Av",
     "daytimeRoutes": [
       "4"
@@ -2773,6 +3098,7 @@
     "longitude": "-73.914685"
   },
   "387": {
+    "id": "387",
     "name": "170 St",
     "daytimeRoutes": [
       "4"
@@ -2781,6 +3107,7 @@
     "longitude": "-73.917791"
   },
   "388": {
+    "id": "388",
     "name": "167 St",
     "daytimeRoutes": [
       "4"
@@ -2789,6 +3116,7 @@
     "longitude": "-73.9214"
   },
   "391": {
+    "id": "391",
     "name": "138 St - Grand Concourse",
     "daytimeRoutes": [
       "4",
@@ -2798,6 +3126,7 @@
     "longitude": "-73.929849"
   },
   "392": {
+    "id": "392",
     "name": "125 St",
     "daytimeRoutes": [
       "4",
@@ -2808,6 +3137,7 @@
     "longitude": "-73.937594"
   },
   "393": {
+    "id": "393",
     "name": "116 St",
     "daytimeRoutes": [
       "6"
@@ -2816,6 +3146,7 @@
     "longitude": "-73.941617"
   },
   "394": {
+    "id": "394",
     "name": "110 St",
     "daytimeRoutes": [
       "6"
@@ -2824,6 +3155,7 @@
     "longitude": "-73.94425"
   },
   "395": {
+    "id": "395",
     "name": "103 St",
     "daytimeRoutes": [
       "6"
@@ -2832,6 +3164,7 @@
     "longitude": "-73.947478"
   },
   "396": {
+    "id": "396",
     "name": "96 St",
     "daytimeRoutes": [
       "6"
@@ -2840,6 +3173,7 @@
     "longitude": "-73.95107"
   },
   "397": {
+    "id": "397",
     "name": "86 St",
     "daytimeRoutes": [
       "4",
@@ -2850,6 +3184,7 @@
     "longitude": "-73.955589"
   },
   "398": {
+    "id": "398",
     "name": "77 St",
     "daytimeRoutes": [
       "6"
@@ -2858,6 +3193,7 @@
     "longitude": "-73.959874"
   },
   "399": {
+    "id": "399",
     "name": "68 St - Hunter College",
     "daytimeRoutes": [
       "6"
@@ -2866,6 +3202,7 @@
     "longitude": "-73.96387"
   },
   "403": {
+    "id": "403",
     "name": "33 St",
     "daytimeRoutes": [
       "6"
@@ -2874,6 +3211,7 @@
     "longitude": "-73.982076"
   },
   "404": {
+    "id": "404",
     "name": "28 St",
     "daytimeRoutes": [
       "6"
@@ -2882,6 +3220,7 @@
     "longitude": "-73.984264"
   },
   "405": {
+    "id": "405",
     "name": "23 St",
     "daytimeRoutes": [
       "6"
@@ -2890,6 +3229,7 @@
     "longitude": "-73.986599"
   },
   "407": {
+    "id": "407",
     "name": "Astor Pl",
     "daytimeRoutes": [
       "6"
@@ -2898,6 +3238,7 @@
     "longitude": "-73.99107"
   },
   "409": {
+    "id": "409",
     "name": "Spring St",
     "daytimeRoutes": [
       "6"
@@ -2906,6 +3247,7 @@
     "longitude": "-73.997141"
   },
   "413": {
+    "id": "413",
     "name": "Wall St",
     "daytimeRoutes": [
       "4",
@@ -2915,6 +3257,7 @@
     "longitude": "-74.011862"
   },
   "414": {
+    "id": "414",
     "name": "Bowling Green",
     "daytimeRoutes": [
       "4",
@@ -2924,6 +3267,7 @@
     "longitude": "-74.014065"
   },
   "416": {
+    "id": "416",
     "name": "Wakefield - 241 St",
     "daytimeRoutes": [
       "2"
@@ -2932,6 +3276,7 @@
     "longitude": "-73.85062"
   },
   "417": {
+    "id": "417",
     "name": "Nereid Av",
     "daytimeRoutes": [
       "2",
@@ -2941,6 +3286,7 @@
     "longitude": "-73.854376"
   },
   "418": {
+    "id": "418",
     "name": "233 St",
     "daytimeRoutes": [
       "2",
@@ -2950,6 +3296,7 @@
     "longitude": "-73.857473"
   },
   "419": {
+    "id": "419",
     "name": "225 St",
     "daytimeRoutes": [
       "2",
@@ -2959,6 +3306,7 @@
     "longitude": "-73.860341"
   },
   "420": {
+    "id": "420",
     "name": "219 St",
     "daytimeRoutes": [
       "2",
@@ -2968,6 +3316,7 @@
     "longitude": "-73.862633"
   },
   "421": {
+    "id": "421",
     "name": "Gun Hill Rd",
     "daytimeRoutes": [
       "2",
@@ -2977,6 +3326,7 @@
     "longitude": "-73.866256"
   },
   "422": {
+    "id": "422",
     "name": "Burke Av",
     "daytimeRoutes": [
       "2",
@@ -2986,6 +3336,7 @@
     "longitude": "-73.867164"
   },
   "423": {
+    "id": "423",
     "name": "Allerton Av",
     "daytimeRoutes": [
       "2",
@@ -2995,6 +3346,7 @@
     "longitude": "-73.867352"
   },
   "424": {
+    "id": "424",
     "name": "Pelham Pkwy",
     "daytimeRoutes": [
       "2",
@@ -3004,6 +3356,7 @@
     "longitude": "-73.867615"
   },
   "425": {
+    "id": "425",
     "name": "Bronx Park East",
     "daytimeRoutes": [
       "2",
@@ -3013,6 +3366,7 @@
     "longitude": "-73.868457"
   },
   "426": {
+    "id": "426",
     "name": "E 180 St",
     "daytimeRoutes": [
       "2",
@@ -3022,6 +3376,7 @@
     "longitude": "-73.873488"
   },
   "427": {
+    "id": "427",
     "name": "West Farms Sq - E Tremont Av",
     "daytimeRoutes": [
       "2",
@@ -3031,6 +3386,7 @@
     "longitude": "-73.880049"
   },
   "428": {
+    "id": "428",
     "name": "174 St",
     "daytimeRoutes": [
       "2",
@@ -3040,6 +3396,7 @@
     "longitude": "-73.887734"
   },
   "429": {
+    "id": "429",
     "name": "Freeman St",
     "daytimeRoutes": [
       "2",
@@ -3049,6 +3406,7 @@
     "longitude": "-73.891865"
   },
   "430": {
+    "id": "430",
     "name": "Simpson St",
     "daytimeRoutes": [
       "2",
@@ -3058,6 +3416,7 @@
     "longitude": "-73.893064"
   },
   "431": {
+    "id": "431",
     "name": "Intervale Av",
     "daytimeRoutes": [
       "2",
@@ -3067,6 +3426,7 @@
     "longitude": "-73.896736"
   },
   "432": {
+    "id": "432",
     "name": "Prospect Av",
     "daytimeRoutes": [
       "2",
@@ -3076,6 +3436,7 @@
     "longitude": "-73.90177"
   },
   "433": {
+    "id": "433",
     "name": "Jackson Av",
     "daytimeRoutes": [
       "2",
@@ -3085,6 +3446,7 @@
     "longitude": "-73.907807"
   },
   "434": {
+    "id": "434",
     "name": "3 Av - 149 St",
     "daytimeRoutes": [
       "2",
@@ -3094,6 +3456,7 @@
     "longitude": "-73.917757"
   },
   "436": {
+    "id": "436",
     "name": "Harlem - 148 St",
     "daytimeRoutes": [
       "3"
@@ -3102,6 +3465,7 @@
     "longitude": "-73.93647"
   },
   "437": {
+    "id": "437",
     "name": "145 St",
     "daytimeRoutes": [
       "3"
@@ -3110,6 +3474,7 @@
     "longitude": "-73.936245"
   },
   "438": {
+    "id": "438",
     "name": "135 St",
     "daytimeRoutes": [
       "2",
@@ -3119,6 +3484,7 @@
     "longitude": "-73.94077"
   },
   "439": {
+    "id": "439",
     "name": "125 St",
     "daytimeRoutes": [
       "2",
@@ -3128,6 +3494,7 @@
     "longitude": "-73.945495"
   },
   "440": {
+    "id": "440",
     "name": "116 St",
     "daytimeRoutes": [
       "2",
@@ -3137,6 +3504,7 @@
     "longitude": "-73.949625"
   },
   "441": {
+    "id": "441",
     "name": "Central Park North (110 St)",
     "daytimeRoutes": [
       "2",
@@ -3146,6 +3514,7 @@
     "longitude": "-73.951822"
   },
   "442": {
+    "id": "442",
     "name": "Eastchester - Dyre Av",
     "daytimeRoutes": [
       "5"
@@ -3154,6 +3523,7 @@
     "longitude": "-73.830834"
   },
   "443": {
+    "id": "443",
     "name": "Baychester Av",
     "daytimeRoutes": [
       "5"
@@ -3162,6 +3532,7 @@
     "longitude": "-73.838591"
   },
   "444": {
+    "id": "444",
     "name": "Gun Hill Rd",
     "daytimeRoutes": [
       "5"
@@ -3170,6 +3541,7 @@
     "longitude": "-73.846384"
   },
   "445": {
+    "id": "445",
     "name": "Pelham Pkwy",
     "daytimeRoutes": [
       "5"
@@ -3178,6 +3550,7 @@
     "longitude": "-73.855359"
   },
   "446": {
+    "id": "446",
     "name": "Morris Park",
     "daytimeRoutes": [
       "5"
@@ -3186,6 +3559,7 @@
     "longitude": "-73.860495"
   },
   "447": {
+    "id": "447",
     "name": "Flushing - Main St",
     "daytimeRoutes": [
       "7"
@@ -3194,6 +3568,7 @@
     "longitude": "-73.83003"
   },
   "448": {
+    "id": "448",
     "name": "Mets - Willets Point",
     "daytimeRoutes": [
       "7"
@@ -3202,6 +3577,7 @@
     "longitude": "-73.845625"
   },
   "449": {
+    "id": "449",
     "name": "111 St",
     "daytimeRoutes": [
       "7"
@@ -3210,6 +3586,7 @@
     "longitude": "-73.855334"
   },
   "450": {
+    "id": "450",
     "name": "103 St - Corona Plaza",
     "daytimeRoutes": [
       "7"
@@ -3218,6 +3595,7 @@
     "longitude": "-73.8627"
   },
   "451": {
+    "id": "451",
     "name": "Junction Blvd",
     "daytimeRoutes": [
       "7"
@@ -3226,6 +3604,7 @@
     "longitude": "-73.869527"
   },
   "452": {
+    "id": "452",
     "name": "90 St - Elmhurst Av",
     "daytimeRoutes": [
       "7"
@@ -3234,6 +3613,7 @@
     "longitude": "-73.876613"
   },
   "453": {
+    "id": "453",
     "name": "82 St - Jackson Hts",
     "daytimeRoutes": [
       "7"
@@ -3242,6 +3622,7 @@
     "longitude": "-73.883697"
   },
   "455": {
+    "id": "455",
     "name": "69 St",
     "daytimeRoutes": [
       "7"
@@ -3250,6 +3631,7 @@
     "longitude": "-73.896403"
   },
   "456": {
+    "id": "456",
     "name": "Woodside - 61 St",
     "daytimeRoutes": [
       "7"
@@ -3258,6 +3640,7 @@
     "longitude": "-73.902984"
   },
   "457": {
+    "id": "457",
     "name": "52 St",
     "daytimeRoutes": [
       "7"
@@ -3266,6 +3649,7 @@
     "longitude": "-73.912549"
   },
   "458": {
+    "id": "458",
     "name": "46 St",
     "daytimeRoutes": [
       "7"
@@ -3274,6 +3658,7 @@
     "longitude": "-73.918435"
   },
   "459": {
+    "id": "459",
     "name": "40 St",
     "daytimeRoutes": [
       "7"
@@ -3282,6 +3667,7 @@
     "longitude": "-73.924016"
   },
   "460": {
+    "id": "460",
     "name": "33 St",
     "daytimeRoutes": [
       "7"
@@ -3290,6 +3676,7 @@
     "longitude": "-73.930997"
   },
   "461": {
+    "id": "461",
     "name": "Queensboro Plaza",
     "daytimeRoutes": [
       "7",
@@ -3300,6 +3687,7 @@
     "longitude": "-73.940202"
   },
   "463": {
+    "id": "463",
     "name": "Hunters Point Av",
     "daytimeRoutes": [
       "7"
@@ -3308,6 +3696,7 @@
     "longitude": "-73.948916"
   },
   "464": {
+    "id": "464",
     "name": "Vernon Blvd - Jackson Av",
     "daytimeRoutes": [
       "7"
@@ -3316,6 +3705,7 @@
     "longitude": "-73.953581"
   },
   "471": {
+    "id": "471",
     "name": "34 St - 11 Av",
     "daytimeRoutes": [
       "7"
@@ -3324,6 +3714,7 @@
     "longitude": "-74.00191"
   },
   "475": {
+    "id": "475",
     "name": "96 St",
     "daytimeRoutes": [
       "Q"
@@ -3332,6 +3723,7 @@
     "longitude": "-73.947152"
   },
   "476": {
+    "id": "476",
     "name": "86 St",
     "daytimeRoutes": [
       "Q"
@@ -3340,6 +3732,7 @@
     "longitude": "-73.951787"
   },
   "477": {
+    "id": "477",
     "name": "72 St",
     "daytimeRoutes": [
       "Q"
@@ -3348,6 +3741,7 @@
     "longitude": "-73.958424"
   },
   "501": {
+    "id": "501",
     "name": "St George",
     "daytimeRoutes": [
       "SIR"
@@ -3356,6 +3750,7 @@
     "longitude": "-74.073643"
   },
   "502": {
+    "id": "502",
     "name": "Tompkinsville",
     "daytimeRoutes": [
       "SIR"
@@ -3364,6 +3759,7 @@
     "longitude": "-74.074835"
   },
   "503": {
+    "id": "503",
     "name": "Stapleton",
     "daytimeRoutes": [
       "SIR"
@@ -3372,6 +3768,7 @@
     "longitude": "-74.075162"
   },
   "504": {
+    "id": "504",
     "name": "Clifton",
     "daytimeRoutes": [
       "SIR"
@@ -3380,6 +3777,7 @@
     "longitude": "-74.071402"
   },
   "505": {
+    "id": "505",
     "name": "Grasmere",
     "daytimeRoutes": [
       "SIR"
@@ -3388,6 +3786,7 @@
     "longitude": "-74.084087"
   },
   "506": {
+    "id": "506",
     "name": "Old Town",
     "daytimeRoutes": [
       "SIR"
@@ -3396,6 +3795,7 @@
     "longitude": "-74.087368"
   },
   "507": {
+    "id": "507",
     "name": "Dongan Hills",
     "daytimeRoutes": [
       "SIR"
@@ -3404,6 +3804,7 @@
     "longitude": "-74.09609"
   },
   "508": {
+    "id": "508",
     "name": "Jefferson Av",
     "daytimeRoutes": [
       "SIR"
@@ -3412,6 +3813,7 @@
     "longitude": "-74.103338"
   },
   "509": {
+    "id": "509",
     "name": "Grant City",
     "daytimeRoutes": [
       "SIR"
@@ -3420,6 +3822,7 @@
     "longitude": "-74.109704"
   },
   "510": {
+    "id": "510",
     "name": "New Dorp",
     "daytimeRoutes": [
       "SIR"
@@ -3428,6 +3831,7 @@
     "longitude": "-74.11721"
   },
   "511": {
+    "id": "511",
     "name": "Oakwood Heights",
     "daytimeRoutes": [
       "SIR"
@@ -3436,6 +3840,7 @@
     "longitude": "-74.12632"
   },
   "512": {
+    "id": "512",
     "name": "Bay Terrace",
     "daytimeRoutes": [
       "SIR"
@@ -3444,6 +3849,7 @@
     "longitude": "-74.136907"
   },
   "513": {
+    "id": "513",
     "name": "Great Kills",
     "daytimeRoutes": [
       "SIR"
@@ -3452,6 +3858,7 @@
     "longitude": "-74.151399"
   },
   "514": {
+    "id": "514",
     "name": "Eltingville",
     "daytimeRoutes": [
       "SIR"
@@ -3460,6 +3867,7 @@
     "longitude": "-74.16457"
   },
   "515": {
+    "id": "515",
     "name": "Annadale",
     "daytimeRoutes": [
       "SIR"
@@ -3468,6 +3876,7 @@
     "longitude": "-74.178217"
   },
   "516": {
+    "id": "516",
     "name": "Huguenot",
     "daytimeRoutes": [
       "SIR"
@@ -3476,6 +3885,7 @@
     "longitude": "-74.191794"
   },
   "517": {
+    "id": "517",
     "name": "Prince's Bay",
     "daytimeRoutes": [
       "SIR"
@@ -3484,6 +3894,7 @@
     "longitude": "-74.200064"
   },
   "518": {
+    "id": "518",
     "name": "Pleasant Plains",
     "daytimeRoutes": [
       "SIR"
@@ -3492,6 +3903,7 @@
     "longitude": "-74.217847"
   },
   "519": {
+    "id": "519",
     "name": "Richmond Valley",
     "daytimeRoutes": [
       "SIR"
@@ -3500,6 +3912,7 @@
     "longitude": "-74.229141"
   },
   "522": {
+    "id": "522",
     "name": "Tottenville",
     "daytimeRoutes": [
       "SIR"
@@ -3508,6 +3921,7 @@
     "longitude": "-74.251961"
   },
   "523": {
+    "id": "523",
     "name": "Arthur Kill",
     "daytimeRoutes": [
       "SIR"
@@ -3516,6 +3930,7 @@
     "longitude": "-74.242096"
   },
   "601": {
+    "id": "601",
     "name": "14 St / 6 Av",
     "daytimeRoutes": [
       "L",
@@ -3529,6 +3944,7 @@
     "longitude": "-74.000201"
   },
   "602": {
+    "id": "602",
     "name": "14 St - Union Sq",
     "daytimeRoutes": [
       "N",
@@ -3544,6 +3960,7 @@
     "longitude": "-73.989951"
   },
   "603": {
+    "id": "603",
     "name": "149 St - Grand Concourse",
     "daytimeRoutes": [
       "4",
@@ -3554,6 +3971,7 @@
     "longitude": "-73.926718"
   },
   "604": {
+    "id": "604",
     "name": "161 St - Yankee Stadium",
     "daytimeRoutes": [
       "B",
@@ -3564,6 +3982,7 @@
     "longitude": "-73.925831"
   },
   "605": {
+    "id": "605",
     "name": "168 St - Washington Hts",
     "daytimeRoutes": [
       "A",
@@ -3574,6 +3993,7 @@
     "longitude": "-73.940133"
   },
   "606": {
+    "id": "606",
     "name": "Court Sq - 23 St",
     "daytimeRoutes": [
       "E",
@@ -3585,6 +4005,7 @@
     "longitude": "-73.945264"
   },
   "607": {
+    "id": "607",
     "name": "34 St - Herald Sq",
     "daytimeRoutes": [
       "N",
@@ -3600,6 +4021,7 @@
     "longitude": "-73.987823"
   },
   "608": {
+    "id": "608",
     "name": "4 Av - 9 St",
     "daytimeRoutes": [
       "R",
@@ -3610,6 +4032,7 @@
     "longitude": "-73.989779"
   },
   "609": {
+    "id": "609",
     "name": "42 St - Bryant Pk / 5 Av",
     "daytimeRoutes": [
       "B",
@@ -3622,6 +4045,7 @@
     "longitude": "-73.981963"
   },
   "610": {
+    "id": "610",
     "name": "Grand Central - 42 St",
     "daytimeRoutes": [
       "4",
@@ -3634,6 +4058,7 @@
     "longitude": "-73.979189"
   },
   "611": {
+    "id": "611",
     "name": "Times Sq - 42 St / Port Authority Bus Terminal",
     "daytimeRoutes": [
       "N",
@@ -3653,6 +4078,7 @@
     "longitude": "-73.986229"
   },
   "612": {
+    "id": "612",
     "name": "Lexington Av / 51 St",
     "daytimeRoutes": [
       "E",
@@ -3663,6 +4089,7 @@
     "longitude": "-73.97192"
   },
   "613": {
+    "id": "613",
     "name": "Lexington Av / 59 St",
     "daytimeRoutes": [
       "N",
@@ -3676,6 +4103,7 @@
     "longitude": "-73.967967"
   },
   "614": {
+    "id": "614",
     "name": "59 St - Columbus Circle",
     "daytimeRoutes": [
       "A",
@@ -3688,6 +4116,7 @@
     "longitude": "-73.981929"
   },
   "615": {
+    "id": "615",
     "name": "62 St / New Utrecht Av",
     "daytimeRoutes": [
       "D",
@@ -3697,6 +4126,7 @@
     "longitude": "-73.996353"
   },
   "616": {
+    "id": "616",
     "name": "Jackson Hts-Roosevelt Av / 74 St",
     "daytimeRoutes": [
       "E",
@@ -3709,6 +4139,7 @@
     "longitude": "-73.891394"
   },
   "617": {
+    "id": "617",
     "name": "Atlantic Av-Barclays Ctr",
     "daytimeRoutes": [
       "D",
@@ -3723,6 +4154,7 @@
     "longitude": "-73.977666"
   },
   "618": {
+    "id": "618",
     "name": "14 St / 8 Av",
     "daytimeRoutes": [
       "L",
@@ -3734,6 +4166,7 @@
     "longitude": "-74.00169"
   },
   "619": {
+    "id": "619",
     "name": "Broadway-Lafayette St / Bleecker St",
     "daytimeRoutes": [
       "B",
@@ -3746,6 +4179,7 @@
     "longitude": "-73.994659"
   },
   "620": {
+    "id": "620",
     "name": "Borough Hall / Court St",
     "daytimeRoutes": [
       "R",
@@ -3758,6 +4192,7 @@
     "longitude": "-73.990151"
   },
   "621": {
+    "id": "621",
     "name": "Broadway Junction",
     "daytimeRoutes": [
       "J",
@@ -3770,6 +4205,7 @@
     "longitude": "-73.905316"
   },
   "622": {
+    "id": "622",
     "name": "Brooklyn Bridge-City Hall/Chambers St",
     "daytimeRoutes": [
       "J",
@@ -3782,6 +4218,7 @@
     "longitude": "-74.004131"
   },
   "623": {
+    "id": "623",
     "name": "Canal St",
     "daytimeRoutes": [
       "R",
@@ -3796,6 +4233,7 @@
     "longitude": "-74.000193"
   },
   "624": {
+    "id": "624",
     "name": "Chambers St / WTC / Park Place",
     "daytimeRoutes": [
       "A",
@@ -3808,6 +4246,7 @@
     "longitude": "-74.008811"
   },
   "625": {
+    "id": "625",
     "name": "Delancey St / Essex St",
     "daytimeRoutes": [
       "J",
@@ -3819,6 +4258,7 @@
     "longitude": "-73.988114"
   },
   "626": {
+    "id": "626",
     "name": "Franklin Av / Botanic Garden",
     "daytimeRoutes": [
       "S",
@@ -3831,6 +4271,7 @@
     "longitude": "-73.958131"
   },
   "627": {
+    "id": "627",
     "name": "Franklin Av",
     "daytimeRoutes": [
       "S",
@@ -3840,6 +4281,7 @@
     "longitude": "-73.956848"
   },
   "628": {
+    "id": "628",
     "name": "Fulton St",
     "daytimeRoutes": [
       "J",
@@ -3855,6 +4297,7 @@
     "longitude": "-74.009509"
   },
   "629": {
+    "id": "629",
     "name": "Metropolitan Av / Lorimer St",
     "daytimeRoutes": [
       "L",
@@ -3864,6 +4307,7 @@
     "longitude": "-73.951418"
   },
   "630": {
+    "id": "630",
     "name": "Myrtle - Wyckoff Avs",
     "daytimeRoutes": [
       "M",
@@ -3873,6 +4317,7 @@
     "longitude": "-73.911586"
   },
   "635": {
+    "id": "635",
     "name": "South Ferry / Whitehall",
     "daytimeRoutes": [
       "R",
@@ -3883,6 +4328,7 @@
     "longitude": "-74.013664"
   },
   "636": {
+    "id": "636",
     "name": "Jay St - MetroTech",
     "daytimeRoutes": [
       "R",
