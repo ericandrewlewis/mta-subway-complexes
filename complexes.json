@@ -157,17 +157,6 @@
     "latitude": "40.713282",
     "longitude": "-74.006978"
   },
-  "21": {
-    "id": "21",
-    "name": "Cortlandt St",
-    "daytimeRoutes": [
-      "R",
-      "W"
-    ],
-    "borough": "M",
-    "latitude": "40.710668",
-    "longitude": "-74.011029"
-  },
   "22": {
     "id": "22",
     "name": "Rector St",
@@ -1689,8 +1678,6 @@
     "name": "Broad Channel",
     "daytimeRoutes": [
       "A",
-      "S",
-      "A",
       "S"
     ],
     "borough": "Q",
@@ -2877,7 +2864,7 @@
   },
   "328": {
     "id": "328",
-    "name": "Cortlandt St",
+    "name": "WTC Cortlandt",
     "daytimeRoutes": [
       "1"
     ],
@@ -4578,7 +4565,9 @@
       "B",
       "Q",
       "2",
-      "3"
+      "3",
+      "4",
+      "5"
     ],
     "borough": "Bk",
     "latitude": "40.684359",
@@ -4641,7 +4630,7 @@
   },
   "622": {
     "id": "622",
-    "name": "Brooklyn Bridge-City Hall/Chambers St",
+    "name": "Brooklyn Bridge-City Hall / Chambers St",
     "daytimeRoutes": [
       "J",
       "Z",
@@ -4671,8 +4660,10 @@
   },
   "624": {
     "id": "624",
-    "name": "Chambers St / WTC / Park Place",
+    "name": "Chambers St / WTC / Park Place / Cortlandt St",
     "daytimeRoutes": [
+      "R",
+      "W",
       "A",
       "C",
       "E",
